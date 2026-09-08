@@ -1,14 +1,14 @@
 # CareQueue – Smart Waiting-Time App UI/UX Project
-## 📌 Project Overview
+Project Overview
 CareQueue is a healthcare mobile application concept designed to help patients manage hospital visits and waiting times more efficiently.
 The application allows users to view available hospital services, check queue status, monitor estimated waiting times, receive alerts, and manage their profile.
 This project focuses on creating a simple, accessible, and user-friendly healthcare experience through UI/UX design.
 
-## 🎯 Problem Statement
+## Problem Statement
 Patients often spend a significant amount of time waiting at hospitals for consultations, laboratory services, pharmacies, and registration.
 CareQueue aims to reduce uncertainty by allowing patients to view queue information and estimated waiting times before and during their hospital visit.
 
-## 💡 Proposed Solution
+## Proposed Solution
 CareQueue provides a centralized mobile interface where users can:
 - View nearby hospitals
 - Check available hospital services
@@ -18,7 +18,7 @@ CareQueue provides a centralized mobile interface where users can:
 - Receive queue alerts
 - Manage their profile
 
-## ✨ Key Features
+## Key Features
 
 - 🏥 Hospital service information
 - 👨‍⚕️ Doctor consultation queue
@@ -30,7 +30,7 @@ CareQueue provides a centralized mobile interface where users can:
 - 📊 Queue history
 - 👤 User profile
 
-## 🎨 UI/UX Design
+## UI/UX Design
 
 The application was designed in Figma with a focus on:
 
@@ -41,15 +41,14 @@ The application was designed in Figma with a focus on:
 - Consistent typography and spacing
 - User-friendly healthcare experience
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Figma
 - UI/UX Design
-- Wireframing
 - Prototyping
 - User Flow Design
 
-## 📱 Screens
+## Screens
 ### Login Page
 The login screen provides users with a simple entry point to the application.
 ### Home Page
@@ -63,10 +62,10 @@ Users receive important updates related to their queue and waiting time.
 ### Profile
 Users can view and manage their personal profile information.
 
-## 👩‍💻 My Role
+## My Role
 **UI/UX Designer**
 
-## 🔮 Future Improvements
+## Future Improvements
 - Real-time hospital queue updates
 - Online appointment booking
 - Push notifications
@@ -75,6 +74,12 @@ Users can view and manage their personal profile information.
 - Digital token generation
 - Integration with hospital management systems
 
-## 📌 Project Status
+## Project Status
 UI/UX design completed in Figma.
 This repository contains the visual screens and design work for the CareQueue project.
+
+## 🔗 Figma Prototype
+
+[View CareQueue Prototype](https://marine-turtle-94193359.figma.site/)
+
+Explore the interactive CareQueue healthcare queue management UI/UX prototype designed in Figma.
